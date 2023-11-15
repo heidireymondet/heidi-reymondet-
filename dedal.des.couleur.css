@@ -1,0 +1,252 @@
+background/
+fill: #EDF0FF;
+ou
+background: #EDF0FF;
+
+page 1 
+ 
+    fond menu/
+width: 685px;
+height: 25px;
+flex-shrink: 0;
+
+fill: #AEB5D9;
+stroke-width: 1px;
+stroke: #181F42;
+
+    trait menu/
+width: 25px;
+height: 0px;
+transform: rotate(90deg);
+flex-shrink: 0;
+
+stroke-width: 1px;
+stroke: #181F2;
+
+
+    texte acceuil, oeuvre, contact/
+color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 16px; /* 80% */
+letter-spacing: 0.1px;
+
+display: flex;
+width: 215px;
+height: 25px;
+flex-direction: column;
+justify-content: center;
+flex-shrink: 0;
+
+    a propos de nous/
+width: 370px;
+
+color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 15px;
+font-style: normal;
+font-weight: 700;
+line-height: 16px; /* 106.667% */
+letter-spacing: 0.075px;
+
+    fond a propos de nous/
+ width: 165px;
+height: 28px;
+flex-shrink: 0;
+
+fill: #AEB5D9;
+
+    texte à propos/
+color: #000;
+text-align: right;
+font-family: Inter;
+font-size: 10px;
+font-style: normal;
+font-weight: 400;
+line-height: 10px; /* 100% */
+
+display: flex;
+width: 260px;
+height: 123px;
+flex-direction: column;
+justify-content: center;
+flex-shrink: 0;
+
+    photo/
+width: 215px;
+height: 126px;
+flex-shrink: 0;
+
+    texte newsletter/
+display: flex;
+width: 370px;
+height: 28px;
+flex-direction: column;
+justify-content: center;
+flex-shrink: 0;
+
+color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 15px;
+font-style: normal;
+font-weight: 700;
+line-height: 16px; /* 106.667% */
+letter-spacing: 0.075px;
+
+    fond newsletter/
+width: 115px;
+height: 28px;
+flex-shrink: 0;
+
+fill: #AEB5D9;
+
+    contenu newsletter/
+    inscrivez-vous
+display: flex;
+width: 211px;
+height: 14px;
+flex-direction: column;
+justify-content: center;
+flex-shrink: 0;
+
+color: #FFF;
+font-family: Inter;
+font-size: 12px;
+font-style: normal;
+font-weight: 700;
+line-height: 16px; /* 133.333% */
+letter-spacing: 0.06px;
+
+    prenoms/
+display: flex;
+width: 59px;
+height: 16px;
+flex-direction: column;
+justify-content: center;
+flex-shrink: 0;
+
+color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 10px;
+font-style: normal;
+font-weight: 700;
+line-height: 16px; /* 160% */
+letter-spacing: 0.05px;
+
+    box prenoms/
+width: 70px;
+height: 12px;
+flex-shrink: 0;
+
+border: 1px solid #AEB5D9;
+background: #FFF;
+
+    adresse mail/
+display: flex;
+width: 79px;
+height: 12px;
+flex-direction: column;
+justify-content: center;
+flex-shrink: 0;
+
+color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 10px;
+font-style: normal;
+font-weight: 700;
+line-height: 16px; /* 160% */
+letter-spacing: 0.05px;
+
+    box mail/
+display: flex;
+width: 79px;
+height: 12px;
+flex-direction: column;
+justify-content: center;
+flex-shrink: 0;
+
+color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 10px;
+font-style: normal;
+font-weight: 700;
+line-height: 16px; /* 160% */
+letter-spacing: 0.05px;
+
+    bouton fond/
+width: 82px;
+height: 18px;
+flex-shrink: 0;
+
+    bouton texte/
+fill: rgba(24, 31, 66, 0.75);
+display: flex;
+width: 66px;
+height: 16px;
+flex-direction: column;
+justify-content: center;
+flex-shrink: 0;
+
+color: #FFF;
+font-family: Inter;
+font-size: 12px;
+font-style: normal;
+font-weight: 700;
+line-height: 16px; /* 133.333% */
+letter-spacing: 0.06px;
+
+    mention obligatoire/
+width: 71px;
+
+color: #556AD4;
+font-family: Inter;
+font-size: 6px;
+font-style: normal;
+font-weight: 700;
+line-height: 16px; /* 266.667% */
+letter-spacing: 0.03px;
+
+
+page 3 
+
+    nous contacter/
+display: flex;
+width: 197px;
+height: 20px;
+flex-direction: column;
+justify-content: center;
+flex-shrink: 0;
+
+color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: 16px; /* 100% */
+letter-spacing: 0.08px;
+
+    fond nous contacter/
+width: 164px;
+height: 28px;
+flex-shrink: 0;
+
+    fond 
+
+
+
+
+
+
+
+
+
+
