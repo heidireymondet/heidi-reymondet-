@@ -239,7 +239,159 @@ width: 164px;
 height: 28px;
 flex-shrink: 0;
 
-    fond 
+
+.formulaire{
+    font-family:arial;
+    font-size:14px;}
+
+form{  
+    background-color: #AEB5D9;
+    width:400px;
+    padding-left:20px;
+    padding-top:20px;
+    border:2px solid grey;
+}
+
+th{  
+    background-color: #AEB5D9;
+    font-weight: bold;
+    font-size:50px;
+    padding:10px;
+    text-align:center;
+}
+
+input:not(#bouton){ 
+    padding:1%; 
+    margin-top:1px;
+    margin-bottom:1px;
+    margin-left:140px;
+
+}
+
+legend{
+    margin-top:-30px;
+    margin-left:-10px;
+    background-color: #1B553A;
+    color:white;
+    font-style:italic;
+    font-size:18px;
+    width:120px;
+    text-align:center;
+}
+
+
+/*plan*/ 
+width: 206px;
+height: 116px;
+flex-shrink: 0;
+background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+
+
+
+/*adresz: 10...*/ 
+display: flex;
+width: 215px;
+height: 126px;
+flex-direction: column;
+justify-content: center;
+flex-shrink: 0;
+
+color: #000;
+text-align: right;
+font-family: Inter;
+font-size: 12px;
+font-style: normal;
+font-weight: 700;
+line-height: 16px; /* 133.333% */
+letter-spacing: 0.06px;
+
+
+
+/*marging + taille sur les 4 logos*/ 
+logo1
+width: 60px;
+height: 34px;
+flex-shrink: 0;
+
+
+logo2
+width: 60px;
+height: 34px;
+flex-shrink: 0;
+
+logo3
+width: 80px;
+height: 34px;
+flex-shrink: 0;
+
+logo4
+width: 58px;
+height: 34px;
+flex-shrink: 0;
+
+
+/*modigliani*/      AJOUTER UN background
+display: flex;
+width: 105px;
+height: 28px;
+flex-direction: column;
+justify-content: center;
+flex-shrink: 0;
+color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 15px;
+font-style: normal;
+font-weight: 700;
+line-height: 16px; /* 106.667% */
+letter-spacing: 0.075px;
+
+/*picasso*/
+display: flex;
+width: 370px;
+height: 40px;
+flex-direction: column;
+justify-content: center;
+flex-shrink: 0;
+color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 15px;
+font-style: normal;
+font-weight: 700;
+line-height: 16px; /* 106.667% */
+
+/*pascin*/
+display: flex;
+width: 685px;
+height: 28px;
+flex-direction: column;
+justify-content: center;
+flex-shrink: 0;
+color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 15px;
+font-style: normal;
+font-weight: 700;
+line-height: 16px; /* 106.667% */
+
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+
+
+
+
+
+
 
 
 
