@@ -169,6 +169,43 @@ legend{
 
 
 
+/*bas de page*/
+
+#logo1{
+    width: 60px;
+    height: 34px;
+    flex-shrink: 0;
+}
+
+#logo2{
+    width: 60px;
+    height: 34px;
+    flex-shrink: 0;
+}
+
+#logo3{
+    width: 80px;
+    height: 34px;
+    flex-shrink: 0;
+}
+
+#logo4{
+    width: 80px;
+    height: 34px;
+    flex-shrink: 0;
+}
+
+footer{
+    color: #FFF;
+    background-color: #181F42;
+    padding: 5px;
+}
+
+#droitecliquez {
+    background-color:#181F42;
+}
+
+
 
 
 
